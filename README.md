@@ -2,6 +2,7 @@
 
 ## Objective
 To understand how casual riders and annual members use Cyclistic bikes differently, and provide actionable recommendations to increase membership.
+In this case study, I analyzed few months of bike-share data to explore how annual members and casual riders use Cyclistic bikes differently. I began by cleaning and combining data from multiple CSV files using Excel, then created visualizations in Tableau to identify usage patterns by day, time, duration, and user type. My analysis revealed that casual riders typically take longer rides on weekends and during warmer months, while annual members ride more frequently on weekdays, likely for commuting. Based on these insights, I developed three key business recommendations aimed at increasing annual memberships through targeted promotions, improved infrastructure, and leisure-focused marketing. This project demonstrates my skills in data analysis, visualization, and storytelling to support data-driven decision-making.
 
 ##Tools Used
 - Tableau (Data visualization)
